@@ -1,0 +1,4 @@
+repository "auto-drive car@ssl://wechat_os_qy02wzhom4qhdjjpqo2yiho8o@sh02-plasticscm.unity.cn:8787"
+  path "/"
+    br "/main"
+    co "/main"

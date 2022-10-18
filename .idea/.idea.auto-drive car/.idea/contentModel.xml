@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\412\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\412\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_auto-drive car.1676792255.00" t="ExcludeRecursive" />
+    <e p="D:\于庭治\Unity Projects\auto-drive car" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="Turtols" t="Include">
+            <e p="CameraFollow.cs" t="Include" />
+            <e p="CarController.cs" t="Include" />
+            <e p="Events" t="Include">
+              <e p="DropDownEvents.cs" t="Include" />
+              <e p="UIEvents.cs" t="Include" />
+            </e>
+            <e p="GeneticController.cs" t="Include" />
+            <e p="NNet.cs" t="Include" />
+          </e>
+        </e>
+        <e p="StreamingAssets" t="Include">
+          <e p="19-51-18.txt" t="Include" />
+          <e p="19-51-41.txt" t="Include" />
+          <e p="19-51-59.txt" t="Include" />
+          <e p="9-38-30.txt" t="Include" />
+          <e p="9-38-51.txt" t="Include" />
+          <e p="carModel0.txt" t="Include" />
+          <e p="carModel1.txt" t="Include" />
+          <e p="carModel2.txt" t="Include" />
+        </e>
+      </e>
+      <e p="auto-drive car.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
