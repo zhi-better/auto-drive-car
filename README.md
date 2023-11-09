@@ -16,11 +16,11 @@
 
 加载小车模型
 
-![load_model](images/load_model.png)
+![load_model](images/load_model.gif)
 
 训练小车模型
 
-![train_model](images/train_model.png)
+![train_model](images/train_model.gif)
 
 ## 项目软件及版本
 
